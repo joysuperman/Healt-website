@@ -1,0 +1,260 @@
+@media only screen and (min-width: 320px) and (max-width: 374px) {
+    .nav_section .navbar .collapse .navbar-nav .nav-item .nav-link:hover{
+        color: #014073;
+    }
+    /* Banner */
+    .banner .slider_content h1{
+        font-size: 28px;
+    }
+    .banner .slider_content h5 {
+        font-size: 19px;
+    }
+
+    /* About Us */
+    .about_us .content h1{
+        font-size: 24px;
+    }
+    .about_us .content p {
+        font-size: 14px;
+    }
+
+     /* Get Appoinment */
+    .get_appointment .content h1 {
+        font-size: 24px;
+        line-height: 49px;
+    }
+    .get_appointment .emergency_service .emergency_contact {
+        padding: 228px 0px 229px 23px;
+    }
+
+    /* Department */
+    .department_section .content h1 {
+        font-size: 24px;
+    }
+
+    /* Price Section */
+    .price_section .content h1 {
+        font-size: 24px;
+    }
+    .price_section .mb-sm-4{
+        margin-bottom: 20px;
+    }
+
+    /* Doctors */
+    .doctors_section .content h1{
+        font-size: 24px;
+    }
+
+    /* Blog */
+    .blog_section .content h1 {
+        font-size: 24px;
+    }
+    .blog_section .card .card-body .post_details {
+        font-size: 11px;
+    }
+    .blog_section .mb-sm-4{
+        margin-bottom: 20px;
+    }
+
+    /* Contuct */
+    .contact_us .content h1{
+        font-size: 24px;
+    }
+    .page-footer .footer_body .mb-sm-4{
+        margin-bottom: 20px;
+    }
+}
+
+@media only screen and (min-width: 375px) and (max-width: 479px) {
+    .nav_section .navbar .collapse .navbar-nav .nav-item .nav-link:hover{
+        color: #014073;
+    }
+    /* Banner */
+    .banner .slider_content h1{
+        font-size: 35px;
+    }
+    .banner .slider_content h5 {
+        font-size: 21px;
+    }
+
+    /* About Us */
+    .about_us .content h1{
+        font-size: 29px;
+    }
+    .about_us .content p {
+        font-size: 16px;
+    }
+
+     /* Get Appoinment */
+    .get_appointment .content h1 {
+        font-size: 29px;
+        line-height: 49px;
+    }
+
+    /* Department */
+    .department_section .content h1 {
+        font-size: 29px;
+    }
+    /* Price Section */
+    .price_section .content h1 {
+        font-size: 29px;
+    }
+    .price_section .mb-sm-4{
+        margin-bottom: 20px;
+    }
+
+    /* Doctors */
+    .doctors_section .content h1{
+        font-size: 29px;
+    }
+
+    /* Blog */
+    .blog_section .content h1 {
+        font-size: 29px;
+    }
+    .blog_section .card .card-body .post_details {
+        font-size: 11px;
+    }
+    .blog_section .mb-sm-4{
+        margin-bottom: 20px;
+    }
+
+    /* Contuct */
+    .contact_us .content h1{
+        font-size: 29px;
+    }
+    .page-footer .footer_body .mb-sm-4{
+        margin-bottom: 20px;
+    }
+}
+
+@media only screen and (min-width: 480px) and  (max-width: 767px) {
+    .nav_section .navbar .collapse .navbar-nav .nav-item .nav-link:hover{
+        color: #014073;
+    }
+    /* Banner */
+    .banner .slider_content h1{
+        font-size: 45px;
+    }
+    .banner .slider_content h5 {
+        font-size: 24px;
+    }
+
+    /* About Us */
+    .about_us .content h1{
+        font-size: 31px;
+    }
+    .about_us .content p {
+        font-size: 18px;
+    }
+
+     /* Get Appoinment */
+    .get_appointment .content h1 {
+        font-size: 31px;
+    }
+
+    /* Department */
+    .department_section .content h1 {
+        font-size: 31px;
+    }
+    /* Price Section */
+    .price_section .content h1 {
+        font-size: 31px;
+    }
+    .price_section .mb-sm-4{
+        margin-bottom: 20px;
+    }
+
+    /* Doctors */
+    .doctors_section .content h1{
+        font-size: 31px;
+    }
+
+    /* Blog */
+    .blog_section .content h1 {
+        font-size: 31px;
+    }
+    .blog_section .card .card-body .post_details {
+        font-size: 11px;
+    }
+    .blog_section .mb-sm-4{
+        margin-bottom: 20px;
+    }
+    /* Contuct */
+    .contact_us .content h1{
+        font-size: 31px;
+    } 
+    .contact_us .mb-sm-4{
+        margin-bottom: 20px;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+    .nav_section .navbar .collapse .navbar-nav .nav-item .nav-link:hover{
+        color: #014073;
+    }
+    /* Banner */
+    .banner .slider_content h1{
+        font-size: 57px;
+    }
+    .banner .slider_content h5 {
+        font-size: 28px;
+    }
+
+    /* About Us */
+    .about_us .content h1{
+        font-size: 36px;
+    }
+    .about_us .content p {
+        font-size: 23px;
+    }
+
+    /* Get Appoinment */
+    .get_appointment .content h1 {
+        font-size: 36px;
+    }
+
+    /* Department */
+    .department_section .content h1 {
+        font-size: 36px;
+    }
+    /* Price Section */
+    .price_section .content h1 {
+        font-size: 36px;
+    }
+
+    /* Doctors */
+    .doctors_section .content h1{
+        font-size: 36px;
+    }
+
+    /* Blog */
+    .blog_section .content h1 {
+        font-size: 36px;
+    }
+    .blog_section .card .card-body .post_details {
+        font-size: 11px;
+    }
+
+    /* Contuct */
+    .contact_us .content h1{
+        font-size: 36px;
+    }
+   
+}
+@media only screen and (min-width: 960px) and (max-width: 1199px){
+    .nav_section .navbar .collapse .navbar-nav .nav-item .nav-link:hover{
+        color: #014073;
+    }
+      
+    .nav_section .navbar .collapse .navbar-nav .nav-item .nav-link {
+        font-size: 10px;
+        padding: 5px;
+    }
+}
+@media only screen and (min-width: 1200px){
+    /* Banner */
+    .banner .slider {
+        height: 90vh;
+    }
+}
